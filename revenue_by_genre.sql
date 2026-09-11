@@ -1,5 +1,5 @@
 SELECT
-		Genre.Name AS genre_nsme,
+		Genre.Name AS genre_name,
 		SUM(InvoiceLine.UnitPrice * InvoiceLine.Quantity) AS total_revenue
 FROM InvoiceLine
 JOIN Track ON InvoiceLine.TrackId =  Track.TrackId
