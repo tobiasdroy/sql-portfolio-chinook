@@ -1,4 +1,4 @@
-# SQL Portfolio - Chinook Database
+# SQL Portfolio 1 - Chinook Database
 
 ## About this project
 
